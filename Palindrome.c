@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdbool.h>
+#include <bool.h>
 
 int main()
 {

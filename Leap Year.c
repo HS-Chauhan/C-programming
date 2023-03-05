@@ -1,5 +1,4 @@
-#include<stdio.h>  
-#include<conio.h>  
+#include<stdio.h>   
 void main() {  
     int year;  
     printf("Enter a year: ");  
@@ -10,5 +9,5 @@ void main() {
     } else {  
         printf("%d is not a leap year", &year);  
     }  
-    getch();  
+    
 }
